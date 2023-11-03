@@ -8,4 +8,6 @@ need to have a hdd that is mounted on /mnt/HDD to store files.
 intsallation:
 
 wget https://github.com/nightmarebd/ubuntu-media-server-on-proxmox-CT/blob/main/media_latest.sh
+
+
 ./media_latest.sh
