@@ -1,4 +1,4 @@
-# ubuntu-media-server-on-proxmox-CT-LXC
+# ubuntu-media-server-LXC
 ubuntu media server on proxmox CT-LXC
 create a CT with 4gb ram and 4 CPU 
 this script will install Docker, Portainer, Heimdall, Radarr, Sonarr, Transmission, emby, jellyfin, Prowlarr, Pivpn web etc.
